@@ -61,6 +61,13 @@
   margin-right: 15px;
 }
 
+.loading-button {
+  background: -webkit-linear-gradient(left, #505050, #898989);
+  background-size: 200% 200%;
+  animation: gradient-animation 4s ease infinite;
+  margin-right: 15px;
+}
+
 .opensea-button {
   background-color: rgb(32, 129, 226);
 }
